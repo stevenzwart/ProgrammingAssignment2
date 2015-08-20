@@ -1,5 +1,5 @@
 ## Homework for Coursera course R Programming
-## by Steven Zwart, 20-06-2014
+## by Steven Zwart
 ##
 ## Create functions to store a the inverse of a matrix
 ## in cache, so that it will not have to be recalculated
